@@ -4,7 +4,7 @@ This project is a PLC program developed using **GX Works2** for a Mitsubishi **F
 
 ---
 
-## 🧩 Overview
+## Overview
 
 ### Features:
 
@@ -16,7 +16,7 @@ This project is a PLC program developed using **GX Works2** for a Mitsubishi **F
 
 ---
 
-## ⚙️ Hardware Setup
+## Hardware Setup
 
 - **PLC:** Mitsubishi FX3U
 - **Analog Output Modules:** 2x FX2N-4DA
@@ -30,7 +30,7 @@ This project is a PLC program developed using **GX Works2** for a Mitsubishi **F
 
 ---
 
-## 🪜 Ladder Logic Summary
+## Ladder Logic Summary
 
 ### Power Control
 | Input  | Action           | Description              |
@@ -69,7 +69,7 @@ This project is a PLC program developed using **GX Works2** for a Mitsubishi **F
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. **Compile and upload** the project using GX Works2.
 2. Press **X000** to enable the system (sets M0).
@@ -81,7 +81,7 @@ This project is a PLC program developed using **GX Works2** for a Mitsubishi **F
 
 ---
 
-## 🧠 Notes
+## Notes
 
 - The `TO` instructions send values to the `FX2N-4DA` module channels.
 - Ensure each VFD is wired correctly to the respective analog output.
